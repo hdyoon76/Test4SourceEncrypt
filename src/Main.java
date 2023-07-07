@@ -16,5 +16,6 @@ public class Main {
                 대보탑
 
         show me the money
+        power overwhelming
     }
 }
