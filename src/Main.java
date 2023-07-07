@@ -24,8 +24,10 @@ public class Main {
         {
             for(j=0;j<10;j++)
             {
-                
+                print("**");
             }
         }
+
+        란란루
     }
 }
