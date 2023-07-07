@@ -19,6 +19,13 @@ public class Main {
         power overwhelming
         operation cwal
         black sheep wall
+
+        for(i=0;i<10;i++)
+        {
+            for(j=0;j<10;j++)
+            {
                 
+            }
+        }
     }
 }
