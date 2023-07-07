@@ -17,5 +17,8 @@ public class Main {
 
         show me the money
         power overwhelming
+        operation cwal
+        black sheep wall
+                
     }
 }
