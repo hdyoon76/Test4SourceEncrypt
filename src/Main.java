@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        test333 testobj;
 
         System.out.printf("Hello and welcome!");
         System.out.printf("source code edit");
@@ -11,14 +12,9 @@ public class Main {
         }
 
         system.out.printf("파수사랑");
-        나는누구 여긴어디
-                석굴암
-                대보탑
 
-        show me the money
-        power overwhelming
-        operation cwal
-        black sheep wall
+        testojb.print();
+
 
         for(i=0;i<10;i++)
         {
@@ -28,6 +24,9 @@ public class Main {
             }
         }
 
-        란란루
+
+
+
+
     }
 }
