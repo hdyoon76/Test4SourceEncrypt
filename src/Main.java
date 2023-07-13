@@ -5,7 +5,7 @@ public class Main {
         System.out.printf("source code edit");
 
 
-        // hgjgjhg
+        // hgjgjhg.m,.mm.kljlkj
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
